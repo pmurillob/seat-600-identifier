@@ -1,0 +1,85 @@
+{
+    "items": [
+            {
+            "desc": "Motor SEAT",
+            "year": 1957,
+            "fromCoche": 400601,
+            "fromBA": 0,
+            "txtFrom": "Motor con numeración SEAT tipo 100.006",
+            "txtTo": "Motor con numeración FIAT tipo 100.000"
+            },
+            {
+            "desc": "Ballesta",
+            "year": 1957,
+            "fromCoche": 400601,
+            "fromBA": 0,
+            "txtFrom": "Nueva ballesta reforzada de 6 láminas con nuevos silentblocks y soportes de ballesta",
+            "txtTo": "Ballesta simple de 4 láminas"
+            },
+            {
+            "desc": "Reenvio",
+            "year": 1957,
+            "fromCoche": 400601,
+            "fromBA": 0,
+            "txtFrom": "Sistema de dirección con palanca de reenvío",
+            "txtTo": "Sistema de dirección sin palanca de reenvío"
+            },
+            {
+            "desc": "Racor Gasolina",
+            "year": 1957,
+            "fromCoche": 400601,
+            "fromBA": 0,
+            "txtFrom": "Racor de salida de gasolina de la bomba de gasolina desmontable",
+            "txtTo": "Racor de salida de gasolina de la bomba de gasolina no desmontable"
+            },
+            {
+            "desc": "Tirante Ventilacion",
+            "year": 1957,
+            "fromCoche": 400866,
+            "fromBA": 0,
+            "txtFrom": "Nuevo tirante mando mariposa de la trampilla inferior de ventilación del radiador",
+            "txtTo": "Tirante de apertura de la trampilla inferior de ventilación del radiador de modlo antiguo"
+            },
+            {
+            "desc": "Cerradura Maneta 1",
+            "year": 1958,
+            "fromCoche": 402859,
+            "fromBA": 0,
+            "txtFrom": "Nueva cerradura independiente en puerta del conductor procedente del SEAT 1400",
+            "txtTo": "Cerradura de puerta del conductor incorporada en la propia maneta"
+            },
+            {
+            "desc": "Volante",
+            "year": 1958,
+            "fromCoche": 406001,
+            "fromBA": 0,
+            "txtFrom": "Nuevo volante y columna de dirección, con caña de luces e intermitencias incorporada bajo el volante",
+            "txtTo": "Volante y columna de dirección de modelo antiguo, con conmutador de luces e indicadores de dirección integrados en el salpicadero"
+            },
+            {
+            "desc": "Bombin",
+            "year": 1958,
+            "fromCoche": 406001,
+            "fromBA": 0,
+            "txtFrom": "Nuevo bombín de arranque ",
+            "txtTo": "Volante y columna de dirección de modelo antiguo, con conmutador de luces e indicadores de dirección integrados en el salpicadero"
+            },
+            {
+            "desc": "Pilotos",
+            "year": 1958,
+            "fromCoche": 406001,
+            "fromBA": 0,
+            "txtFrom": "Nuevos pilotos posteriores de nuevo diseño con dos bombillas independientes",
+            "txtTo": "Pilotos posteriores de modelo antiguo, con característica protuberancia y una única bombilla de doble filamento"
+            }, 
+            {
+            "desc": "Cerradura Maneta 2",
+            "year": 1961,
+            "fromCoche": 451701,
+            "fromBA": 0,
+            "txtFrom": "Nuevo modelo mejorado de cerradura y pomos de apertura interior",
+            "txtTo": "Modelos antiguos de cerradura y pomos de apertura interior"
+            }        
+        ],
+    "meta": {"author":"Pablo Murillo Barrionuevo", "source":"Catalogo de Piezas de Recambio. Modelo 600/600-D/600 Comercial y 600 D 4 puertas. SEAT Subdireccion de recambios. Publicacion NA 902435.03. 3a edicion, Marzo 1970. Deposito Legal B.6830-1970"}
+}

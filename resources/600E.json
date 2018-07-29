@@ -1,0 +1,68 @@
+{
+    "items": [
+            {
+            "desc": "Tapa Balancines",
+            "year": 1970,
+            "from": 1341,
+            "txtFrom": "Nuevo modelo de tapa de balancines",
+            "txtTo": "Tapa de balancines procedente del modelo 600-D"
+            },
+            {
+            "desc": "Derivabrisas",
+            "year": 1970,
+            "from": 13590,
+            "txtFrom": "Cierre de los derivabrisas con botón de seguridad",
+            "txtTo": "Cierre de los derivabrisas similares a los del SEAT 800"
+            },
+            {
+            "desc": "Tornillos Rueda",
+            "year": 1970,
+            "from": 28301,
+            "txtFrom": "Nuevos tornillos de rueda",
+            "txtTo": "Tornillos de rueda del modelo 600-D"
+            },
+            {
+            "desc": "Maneta Puertas",
+            "year": 1971,
+            "from": 72901,
+            "txtFrom": "Manecilla de puerta con botón pulsador, con nuevo sistema de seguridad interior para las puertas.",
+            "txtTo": "Manecilla de puerta de tirador"
+            },
+            {
+            "desc": "Engranajes Cambio",
+            "year": 1972,
+            "from": 117588,
+            "txtFrom": "Modificación del piñón de III y IV de los engranajes del cambio",
+            "txtTo": "Caja de cambios similar a la del modelo 600-D"
+            },
+            {
+            "desc": "Moldura Talonera",
+            "year": 1972,
+            "from": 170689,
+            "txtFrom": "Sin moldura de talonera",
+            "txtTo": "Con moldura de talonera"
+            },
+            {
+            "desc": "Anagrama",
+            "year": 1972,
+            "from": 170689,
+            "txtFrom": "Nuevo anagrama trasero de plástico de nuevo diseño en posición horizontal",
+            "txtTo": "Anagrama trasero de aluminio en posición inclinada"
+            },
+            {
+            "desc": "Manecillas interiores",
+            "year": 1972,
+            "from": 170689,
+            "txtFrom": "Manecillas interiores de puerta de plástico negro",
+            "txtTo": "Manecillas interiores de puerta metálicas"
+            },
+            {
+            "desc": "Asientos",
+            "year": 1972,
+            "from": 170689,
+            "txtFrom": "Asientos delanteros tipo SEAT 127 con respaldo regulable",
+            "txtTo": "Asientos delanteros similares a los del 600-D 2ª serie"
+            }
+        ],
+    "meta": {"author":"Pablo Murillo Barrionuevo"}
+}
