@@ -5,6 +5,9 @@
             "year": 1957,
             "fromCoche": 400601,
             "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
             "txtFrom": "Motor con numeración SEAT tipo 100.006",
             "txtTo": "Motor con numeración FIAT tipo 100.000"
             },
@@ -13,6 +16,9 @@
             "year": 1957,
             "fromCoche": 400601,
             "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
             "txtFrom": "Nueva ballesta reforzada de 6 láminas con nuevos silentblocks y soportes de ballesta",
             "txtTo": "Ballesta simple de 4 láminas"
             },
@@ -21,6 +27,9 @@
             "year": 1957,
             "fromCoche": 400601,
             "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
             "txtFrom": "Sistema de dirección con palanca de reenvío",
             "txtTo": "Sistema de dirección sin palanca de reenvío"
             },
@@ -29,57 +38,262 @@
             "year": 1957,
             "fromCoche": 400601,
             "fromBA": 0,
-            "txtFrom": "Racor de salida de gasolina de la bomba de gasolina desmontable",
-            "txtTo": "Racor de salida de gasolina de la bomba de gasolina no desmontable"
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Racor de salida de gasolina para la bomba de de alimentación desmontable",
+            "txtTo": "Racor de salida de gasolina para la bomba de de alimentación no desmontable (motor FIAT)"
             },
             {
             "desc": "Tirante Ventilacion",
             "year": 1957,
             "fromCoche": 400866,
             "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
             "txtFrom": "Nuevo tirante mando mariposa de la trampilla inferior de ventilación del radiador",
-            "txtTo": "Tirante de apertura de la trampilla inferior de ventilación del radiador de modlo antiguo"
+            "txtTo": "Tirante mando mariposa de la trampilla inferior de ventilación del radiador de modelo antiguo"
             },
             {
             "desc": "Cerradura Maneta 1",
             "year": 1958,
             "fromCoche": 402859,
             "fromBA": 0,
-            "txtFrom": "Nueva cerradura independiente en puerta del conductor procedente del SEAT 1400",
-            "txtTo": "Cerradura de puerta del conductor incorporada en la propia maneta"
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nueva cerradura procedente del SEAT 1400 situada de forma independiente bajo la maneta de la puerta del conductor",
+            "txtTo": "Cerradura de puerta del conductor incorporada en la propia maneta de apertura"
             },
             {
             "desc": "Volante",
             "year": 1958,
             "fromCoche": 406001,
             "fromBA": 0,
-            "txtFrom": "Nuevo volante y columna de dirección, con caña de luces e intermitencias incorporada bajo el volante",
-            "txtTo": "Volante y columna de dirección de modelo antiguo, con conmutador de luces e indicadores de dirección integrados en el salpicadero"
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nuevo volante y columna de dirección, con caja de luces e intermitencias incorporada bajo el volante",
+            "txtTo": "Volante y columna de dirección de modelo antiguo, con conmutador de luces integrado en el salpicadero y accionado mediante llave"
             },
             {
-            "desc": "Bombin",
+            "desc": "Llave",
             "year": 1958,
             "fromCoche": 406001,
             "fromBA": 0,
-            "txtFrom": "Nuevo bombín de arranque ",
-            "txtTo": "Volante y columna de dirección de modelo antiguo, con conmutador de luces e indicadores de dirección integrados en el salpicadero"
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nueva llave que acciona únicamente el bombín de arranque",
+            "txtTo": "Llave de forma alargada que sirve para accionar tanto el bombín de arranque como el conmutador de luces"
             },
             {
             "desc": "Pilotos",
             "year": 1958,
             "fromCoche": 406001,
             "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
             "txtFrom": "Nuevos pilotos posteriores de nuevo diseño con dos bombillas independientes",
-            "txtTo": "Pilotos posteriores de modelo antiguo, con característica protuberancia y una única bombilla de doble filamento"
+            "txtTo": "Pilotos posteriores de modelo antiguo, con característica protuberancia semiesférica y una única bombilla de doble filamento"
+            },
+            {
+            "desc": "Luz Motor",
+            "year": 1958,
+            "fromCoche": 406001,
+            "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nueva luz del compartimento motor similar a la del 600-D",
+            "txtTo": "Luz del compartimento motor de modelo antiguo, situada en posición transversal en el centro del vano motor, y sujeta mediante tornillo pasante y tuerca"
+            },
+            {
+            "desc": "Indicador Direccion",
+            "year": 1958,
+            "fromCoche": 406001,
+            "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nuevo indicador de dirección luminoso de color rojo situado en la parte superior del salpicadero. Las intermitencias se accionan mediante la caña de luces bajo el volante",
+            "txtTo": "Interuptor conmutador e indicador luminoso de dirección de modelo antiguo con tres posiciones situado en la parte superior del salpicadero"
+            },
+            {
+            "desc": "Cable batería",
+            "year": 1958,
+            "fromCoche": 410467,
+            "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nuevo cable que conecta la batería con el motor de arranque",
+            "txtTo": "Interuptor conmutador e indicador luminoso de dirección de modelo antiguo con tres posiciones situado en la parte superior del salpicadero"
             }, 
             {
+            "desc": "Junta Racor Deposito",
+            "year": 1959,
+            "fromCoche": 417020,
+            "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nuevo tubo flexible en el rácor del depósito de gasolina",
+            "txtTo": "Rácor con junta rígida en el depósito de gasolina"
+            }, 
+            {
+            "desc": "Tambor Freno Transmisión",
+            "year": 1959,
+            "fromCoche": 421502,
+            "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nuevo tambor de freno para la transmisión (freno de mano)",
+            "txtTo": "Tambor de freno para la transmisión (freno de mano) de modelo antiguo"
+            }, 
+            {
+            "desc": "Sujeccion Silencioso Carter",
+            "year": 1959,
+            "fromCoche": 425721,
+            "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nuevo cárter y silencioso sujeto mediante dos bridas, eliminando vibraciones",
+            "txtTo": "Cárter de modelo antiguo y silencioso sujeto mediante una única brida y tornillo"
+            },
+            {
+            "desc": "Caja Luces Volante",
+            "year": 1960,
+            "fromCoche": 444601,
+            "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nuevo modelo de caja de luces e intermitencias que incluye pasacables integrado en la columna de dirección y sin pletina metálica",
+            "txtTo": "Caja de luces e intermitencias incorporada bajo el volante de modelo antiguo introducido en 1958 con pasacables separado de la columna de dirección y pletina metálica"
+            },
+            {
             "desc": "Cerradura Maneta 2",
-            "year": 1961,
+            "year": 1960,
             "fromCoche": 451701,
             "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
             "txtFrom": "Nuevo modelo mejorado de cerradura y pomos de apertura interior",
             "txtTo": "Modelos antiguos de cerradura y pomos de apertura interior"
-            }        
+            },
+            {
+            "desc": "Junta Culata",
+            "year": 1960,
+            "fromCoche": 458031,
+            "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nueva junta de culata",
+            "txtTo": "Junta de culata de modelo antiguo"
+            },
+            {
+            "desc": "Filtro Aire",
+            "year": 1961,
+            "fromCoche": 467001,
+            "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nuevo filtro de aire en seco (cartucho) situado sobre el carburador",
+            "txtTo": "Filtro de aire en baño de aceite situado en el lateral izquierdo del compartimento motor"
+            },
+            {
+            "desc": "Cuatro instrumentos",
+            "year": 1961,
+            "fromCoche": 467001,
+            "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nuevo cuadro de instrumentos con termómetro de temperatura en posición izquierda junto la leyenda AGUA",
+            "txtTo": "Cuadro de instrumentos de modelo antiguo con indicador luminoso de presión de aceite en posición izquierda junto la leyenda ACEITE"
+            },
+            {
+            "desc": "Retrovisor",
+            "year": 1961,
+            "fromCoche": 467001,
+            "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nuevo espejo retrovisor interior con dispositivo antideslumbrante y mayor tamaño",
+            "txtTo": "Espejo retrovisor interior pequeño procedente del SEAT 1400"
+            },
+            {
+            "desc": "Carburador",
+            "year": 1961,
+            "fromCoche": 467001,
+            "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nuevo carburador Bressel-Weber 22-IA con starter automático",
+            "txtTo": "Carburador Bressel-Weber 22-IT o Solex E-22-BIT con starter automático"
+            },
+            {
+            "desc": "Colectores",
+            "year": 1961,
+            "fromCoche": 467001,
+            "fromBA": 0,
+            "fromBH": 0,
+            "fromBB": 0,
+            "fromBJ": 0,
+            "txtFrom": "Nuevo colector de escape con 'laberinto' para la toma de aire del starter automático",
+            "txtTo": "Colector de escape sin laberinto. El starter automático aspira el aire caliente desde una toma atornillada al colector"
+            },
+            {
+            "desc": "Carburador 2",
+            "year": 1962,
+            "fromCoche": 0,
+            "fromBA": 90200,
+            "fromBH": 5756,
+            "fromBB": 4638,
+            "fromBJ": 0,
+            "txtFrom": "Nuevo carburador Bressel-Weber 26-IC con starter manual",
+            "txtTo": "Carburador Bressel-Weber 22-IA con starter automático"
+            },
+            {
+            "desc": "Palanca Arranque",
+            "year": 1962,
+            "fromCoche": 0,
+            "fromBA": 90200,
+            "fromBH": 5756,
+            "fromBB": 4638,
+            "fromBJ": 0,
+            "txtFrom": "Doble palanca de arranque/starter situada tras la palanca de cambios sobre el túnel central",
+            "txtTo": "Palanca sencilla de arranque situada tras la palanca de cambios sobre el túnel central"
+            },
+            {
+            "desc": "Filtro Aire 2",
+            "year": 1962,
+            "fromCoche": 0,
+            "fromBA": 90200,
+            "fromBH": 5756,
+            "fromBB": 4638,
+            "fromBJ": 0,
+            "txtFrom": "Nuevo filtro de aire en seco (cartucho) situado sobre el carburador con toma de mayor diámetro y con placa de instrucciones metálica remachada a la carcasa",
+            "txtTo": "Filtro de aire en seco (cartucho) situado sobre el carburador con toma de menor diámetro y sin placa de instrucciones metálica remachada a la carcasa"
+            }
         ],
-    "meta": {"author":"Pablo Murillo Barrionuevo", "source":"Catalogo de Piezas de Recambio. Modelo 600/600-D/600 Comercial y 600 D 4 puertas. SEAT Subdireccion de recambios. Publicacion NA 902435.03. 3a edicion, Marzo 1970. Deposito Legal B.6830-1970"}
+    "meta": {"author":"Pablo Murillo Barrionuevo", 
+             "source":[
+                      {"desc":"Catálogo de Recambios - Autobastidor. SEAT O.T.S. Normas y Publicaciones Técnicas. Publ. N. 5005.1. 1a edición, Febrero 1958"},
+                      {"desc":"Catálogo de Recambios - Carrocería. SEAT O.T.S. Normas y Publicaciones Técnicas. Publ. N. 5005.1. 1a edición, Junio 1958"},
+                      {"desc":"Catálogo de Recambios - Autobastidor. SEAT O.T.S. Normas y Publicaciones Técnicas. Publ. N. 5005.1. 2a edición, Octubre 1959. Depósito Legal B. 12.306-1959"},
+                      {"desc":"Autobastidor Modelo 600. Catálogo de Piezas para Recambios. SEAT D.C.T.S. Publicaciones Técnicas. Publ. N. BA.01.03.00. 3a edición, Julio 1965. Depósito Legal B. 16.293-1965"},
+                      {"desc":"Catálogo de Piezas de Recambio. Modelo 600/600-D/600 Comercial y 600 D 4 puertas. SEAT Subdirección de recambios. Publicación NA 902435.03. 3a edición, Marzo 1970. Depósito Legal B. 6830-1970}"}                 
+                      ]
+            }
 }

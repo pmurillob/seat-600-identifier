@@ -64,5 +64,9 @@
             "txtTo": "Asientos delanteros similares a los del 600-D 2ª serie"
             }
         ],
-    "meta": {"author":"Pablo Murillo Barrionuevo"}
+    "meta": {"author":"Pablo Murillo Barrionuevo", 
+             "source":[
+                      {"desc":"600-E y 600-L. Catálogo de Piezas de Recambio. SEAT Subdirección de Recambios. Publicación NA 902415.32. 1a edición, Diciembre 1972. Depósito Legal M-2452/1973"}
+                      ]
+            }
 }

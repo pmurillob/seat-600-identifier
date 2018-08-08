@@ -326,5 +326,9 @@
             "txtTo": "Depósito de líquido de frenos situado junto a la batería"
             }        
         ],
-    "meta": {"author":"Pablo Murillo Barrionuevo", "source":"Catalogo de Piezas de Recambio. Modelo 600/600-D/600 Comercial y 600 D 4 puertas. SEAT Subdireccion de recambios. Publicacion NA 902435.03. 3a edicion, Marzo 1970. Deposito Legal B.6830-1970"}
+    "meta": {"author":"Pablo Murillo Barrionuevo", 
+             "source":[
+                      {"desc":"Catálogo de Piezas de Recambio. Modelo 600/600-D/600 Comercial y 600 D 4 puertas. SEAT Subdirección de recambios. Publicación NA 902435.03. 3a edición, Marzo 1970. Depósito Legal B. 6830-1970"}
+                      ]
+            }
 }
